@@ -9,9 +9,9 @@ pkg install git
 
 pkg install curl
 
-git clone https://github.com/darkfb/terbaru
+git clone https://github.com/darkfb/bangrey
 
-cd terbaru
+cd bangrey
 
 pip2 install -r requirements.txt
 
